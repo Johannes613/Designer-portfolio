@@ -1,0 +1,27 @@
+.card-img{
+    width: 100% !important;
+    height: 150px !important;
+    padding: 40px;
+    object-fit: contain !important;
+}
+div.serv-lists{
+    margin-top: 50px;
+    padding: 50px 0;
+}
+h2.serv-off{
+    font-weight: 550;
+    margin-bottom: 20px;
+}
+.serv-title{
+    font-weight: 600 !important;
+    
+}
+.each-serv{
+    transition: all 0.4s ease;
+    border: none !important;
+}
+.each-serv:hover{
+   box-shadow: var(--shadow-color) !important;
+   transform: scale(1.1);
+   cursor: pointer;
+}

@@ -1,0 +1,17 @@
+div.subscribe{
+    background: url("../../img/subscribe-bg.png");
+    background-repeat: no-repeat;
+    height: 58vh;
+}
+div.sub-form{
+}
+.form-cont{
+    width: 500px;
+}
+div.title-sub{
+    color: white !important;
+}
+.sub-btn{
+    background-color: rgb(246, 246, 246) !important;
+    color: black !important;
+}

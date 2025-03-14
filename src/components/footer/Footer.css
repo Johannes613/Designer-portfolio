@@ -1,0 +1,13 @@
+.icons{
+    color: gray;
+    transition: all 0.2s ease;
+    font-size: 18px;
+}
+div.footer{
+    margin: 90px 0 10px 0 !important;
+}
+.icons:hover{
+    color: var(--primary-color);
+    
+    
+}

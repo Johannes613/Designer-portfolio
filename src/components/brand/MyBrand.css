@@ -1,0 +1,79 @@
+div.my-brand{
+    padding: 2vw 6vw;
+    margin-top: 100px;
+}
+div.brand-list > div{
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 20px !important;
+}
+div.each-brand{
+    width: 100% !important;
+    height: 100% !important;
+    padding: 38px !important;
+    border: 2px solid var(--border-color) !important;
+    transition: all 0.4s ease;
+
+}
+div.each-brand:hover{
+    box-shadow: var(--box-shadow);
+    transform: scale(1.1);
+    filter: brightness(50%);
+    
+}
+
+div.each-brand img{
+
+    width: 100% !important;
+    height: 120% !important;
+    object-fit: contain;
+
+
+}
+div.each-brand img:hover{
+}
+div.experience{
+    max-width: 400px !important;
+    background-color: #e029290a;
+    padding: 30px;
+
+
+}
+h2.exp-head span{
+    display: block !important;
+    font-weight: 550;
+
+}
+div.right{
+    /* padding-left:100px !important; */
+
+    
+
+}
+h2.years{
+    font-size: 4rem !important;
+    color: var(--primary-color2);
+}
+div.call-area{
+    background-color: #e029290a;
+    max-width: 400px !important;
+    padding: 30px;
+    height: 230px !important;
+    
+
+
+}
+div.call-now a{
+    font-size: 1.6rem;
+    font-weight: 500;
+
+}
+
+.phone-icon{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+}

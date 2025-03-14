@@ -1,0 +1,28 @@
+.project-heading span {
+  display: block;
+}
+.each-proj {
+  border: none !important;
+  background-color: #f4f7f6cc !important;
+}
+.proj-tit {
+  cursor: pointer;
+  transition: all 0.3 ease;
+}
+.project-img:hover {
+  box-shadow: var(--box-shadow);
+}
+div.filters button {
+  background: transparent;
+  border: none;
+  font-size: 17px;
+  font-weight: 500;
+  outline: none;
+  margin: 0px 25px;
+  text-transform: uppercase;
+}
+.proj-desc {
+  font-size: 17px;
+  color: gray;
+  text-transform: capitalize;
+}
